@@ -6,7 +6,7 @@ The purpose of this project is to develop a prediction pipeline to determine a b
 
 ## Data
 
-Kaggle dataset: [found here](https://www.kaggle.com/c/loan-default-prediction)
+Kaggle dataset: [found here](https://www.kaggle.com/c/loan-default-prediction) \
 ~100k loans, 770 numerical, anonymized features
 
 ## Skills & Tools
