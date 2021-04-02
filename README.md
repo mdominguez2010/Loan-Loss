@@ -18,5 +18,5 @@ Kaggle dataset: [found here](https://www.kaggle.com/c/loan-default-prediction) \
 - Pandas
 - Numpy
 - Seaborn
-- Google Cloud
+- Google Cloud Platform
 
